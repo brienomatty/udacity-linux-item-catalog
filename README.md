@@ -1,6 +1,8 @@
 # Linux Server Configuration
 URL: http://3.224.57.144.xip.io/
+
 IP: http://3.224.57.144
+
 SSH Port: 2200
 
 Udacity Project Rubric: https://review.udacity.com/#!/rubrics/2007/view
